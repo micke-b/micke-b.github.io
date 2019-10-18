@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Om oss
-permalink: /about/
+title: Jobb
+permalink: /jobs/
 ---
 
-Swedish Apps grundades 2016 och är litet konsultföretag i Stockholm som fokuserar 100% på app-utveckling för Apples plattformar [iOS, iPadOS och tvOS]. Detta för att ha ett tydligt fokus i bolaget. Och för att vi hellre färre saker riktigt bra än fler mindre bra. Som konsulter sitter hos kund på plats i heltidsuppdrag.
+- [iOS utvecklare](../jobb/2019/10/18/job-ad.html)
 
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

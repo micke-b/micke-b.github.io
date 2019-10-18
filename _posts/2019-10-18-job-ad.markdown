@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "iOS utvecklare - heltid - Stockholm"
+date:   2019-10-18 16:09:46 +0200
+categories: jobb
+---
+
+## iOS utvecklare - heltidstjänst
+
+Detta kommer inte vara din typiska jobb-annons. Vi kommer inte försöka locka iOS-utvecklare-stereotyper med gratis läsk och TV-spel på kontoret. Inte heller kommer vi att lova lägga pengar på "roliga" "aktiviteter" och andra "förmåner". Om detta är viktigt för dig kan du sluta läsa nu.
+
+Istället lovar vi att betala bra. Hos oss har du en bra grundlön, samt 20% av dom timmar du tjänar in varje månad. Alla anställda får också dela på 10% av bolagets vinst varje år i förhållande till sitt bidrag. D v s du avgör till stor del själv hur mycket du tjänar. Har du precis dom kunskaper våra kunder letar efter så är det stor chans att få ett bra pris per timme.
+
+__Vi söker löpande duktiga iOS utvecklare.__ Hos oss kommer du att jobba med våra kunder on-site i Stockholm. På sikt vill vi även utveckla våra egna produkter, men vi är just nu i en tidig fas och jobbar med att bygga kompetens i företaget.
+
+Några av våra kunder: 
++ Expressen (nyheter)
++ BookBeat (ljud och e-böcker)
++ ComHem (TV / video-streaming)
++ Tele2 (TV / video-streaming)
+
+## Vem är du?
+Du några års erfarenhet av iOS utveckling, primärt med Swift men lite Objective-C skadar inte och du tycker att det är fantastiskt roligt att utveckla appar för Apples plattformar.
+Du känner att ovanstående låter intressant och är gärna med från början.
+Du vill fortsätta växa som iOS utvecklare och strävar hela tiden efter att bli bättre.
+
+## Vi erbjuder
++ __Lön:__ Grundlön + typiskt _20%_ av dom timmar du tjänar in. Alla anställda får också dela på _10%_ av bolagets vinst varje år.
++ __Friskvårdsbidrag:__ 5000kr per år.
++ __Pension:__ 5000kr till pension per månad hos Avanza som du själv kan fördela om du vill.
++ __Semester:__ 25 dagar per år.
++ __Raka rör:__ Ingen BS, rak kommunikation, direkt feedback, inga lossas-roller eller hierarki.
+
+## Vill du veta mer?
+Tveka inte att kontakta Mikael Bertlin för frågor eller för att boka in ett möte / lunch / fika. Vi berättar gärna i detalj hur ett upplaägg ser ut och vilken komepsation du kan förvänta dig.
+
+Mikael Bertlin<br>
+<mikael.bertlin@swedishapps.com><br>
