@@ -7,11 +7,11 @@ categories: jobb
 
 ## iOS utvecklare - heltidstjänst
 
-Detta kommer inte vara din typiska jobb-annons. Vi kommer inte försöka locka iOS-utvecklare-stereotyper med gratis läsk och TV-spel på kontoret. Inte heller kommer vi att lova lägga pengar på "roliga" "aktiviteter" och andra "förmåner". Om detta är viktigt för dig kan du sluta läsa nu.
+Detta är inte din typiska jobb-annons. Vi kommer inte försöka locka iOS-utvecklare-stereotyper med gratis läsk och TV-spel på kontoret. Inte heller kommer vi att lova lägga pengar på "roliga" "aktiviteter" och andra "förmåner". Om detta är viktigt för dig kan du sluta läsa nu.
 
 Istället lovar vi att betala bra. Hos oss har du en bra grundlön, samt 20% av dom timmar du tjänar in varje månad. Alla anställda får också dela på 10% av bolagets vinst varje år i förhållande till sitt bidrag. D v s du avgör till stor del själv hur mycket du tjänar. Har du precis dom kunskaper våra kunder letar efter så är det stor chans att få ett bra pris per timme.
 
-__Vi söker löpande duktiga iOS utvecklare.__ Hos oss kommer du att jobba med våra kunder on-site i Stockholm. På sikt vill vi även utveckla våra egna produkter, men vi är just nu i en tidig fas och jobbar med att bygga kompetens i företaget.
+__Vi söker löpande duktiga iOS utvecklare.__ Hos oss kommer du att jobba med våra kunder on-site i Stockholm. Att jobba som konsult kommer att ge dig många bra erfarenheter. Vill du bil riktgit bra finns det inget bättre än att regelbundet utsätta dig för nya miljöer, nya teams, nya infallsvinklar, nya kodstilar och design-patterns osv. Det sagt så kommer vi primärt att ta uppdrag som är 6-12 månader. Enligt våra erfaranheter är det den tid det tar att vekligen komma in i en produkt.
 
 Några av våra kunder: 
 + Expressen (nyheter)
